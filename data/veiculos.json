@@ -1,0 +1,20 @@
+[
+    {
+        "tipo":"Carro",
+        "modelo": "Ferrari",
+        "placa": "ABC1D23",
+        "disponivel": false 
+    },
+    {
+        "tipo":"Moto",
+        "modelo": "Ninja",
+        "placa": "EFG4H56",
+        "disponivel": false
+    },
+    {
+        "tipo":"Moto",
+        "modelo": "Hornet",
+        "placa": "IJK7L89",
+        "disponivel": true
+    }
+]
